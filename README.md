@@ -53,4 +53,10 @@ This project focuses on analysing employee attrition and workforce trends using 
 - Develop retention strategies for the Sales department.
 - Provide additional engagement and career support for younger employees.
 
-📌 **Note:**
+📸 Dashboard Screenshots
+
+1. Workforce Overview
+
+
+
+2. Employee Attrition Deep Dive
