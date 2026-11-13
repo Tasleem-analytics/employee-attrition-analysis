@@ -56,7 +56,7 @@ This project focuses on analysing employee attrition and workforce trends using 
 📸 Dashboard Screenshots
 
 1. Workforce Overview
-
-
+https://github.com/Tasleem-analytics/employee-attrition-analysis/blob/main/Workforce_Overview.png
 
 2. Employee Attrition Deep Dive
+https://github.com/Tasleem-analytics/employee-attrition-analysis/blob/main/Employee_Attrition_Deep_Dive.png
